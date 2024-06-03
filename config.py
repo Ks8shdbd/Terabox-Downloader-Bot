@@ -3,7 +3,7 @@ import os
 API_ID = 27875635  # api id
 API_HASH = "f16e61ac56b71ce12aed2e1ae8dee89b"
 
-BOT_TOKEN = "6822342630:AAEu_55xNdWWDILPL4VX-NAo0oTuhCC440U"
+BOT_TOKEN = "5546760898:AAELekCxEBEQGgMPdLzQW1WHg2sWuSEmmsU"
 
 
 ## REDIS
@@ -11,8 +11,8 @@ HOST = "redis-16448.c73.us-east-1-2.ec2.cloud.redislabs.com"  # redis host uri
 PORT = 16448  # redis port
 PASSWORD = "o5BMtARZTkrMHP7xvxkOEx6XrXS583NN"  # redis password
 
-PRIVATE_CHAT_ID = -1001907561496
-ADMINS = [6695586027]
+PRIVATE_CHAT_ID = -1002040959896
+ADMINS = [5079629749]
 '''
 #Database 
 #Database [https://youtu.be/qFB0cFqiyOM?si=fVicsCcRSmpuja1A]
