@@ -11,7 +11,7 @@ HOST = "redis-16448.c73.us-east-1-2.ec2.cloud.redislabs.com"  # redis host uri
 PORT = 16448  # redis port
 PASSWORD = "o5BMtARZTkrMHP7xvxkOEx6XrXS583NN"  # redis password
 
-PRIVATE_CHAT_ID = -1002022900736
+PRIVATE_CHAT_ID = -1001907561496
 ADMINS = [6695586027]
 '''
 #Database 
